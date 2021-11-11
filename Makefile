@@ -1,3 +1,5 @@
+CXXFLAGS= -std=c++11
+
 main: main.o funcs.o
 	g++ -o main main.o funcs.o
 

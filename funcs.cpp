@@ -12,7 +12,7 @@ double length(Coord3D *p){
 Coord3D * fartherFromOrigin(Coord3D *p1, Coord3D *p2){
     double x = length(p1);
     double y = length(p2);
-    return x > y ? p1 : p2;
+    return x < y ? p2 : p1; // x > y ? p1 : p2;
 }
 
 // Task C
