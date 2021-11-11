@@ -1,3 +1,12 @@
+/*
+Author: Evan Huang
+Course: CSCI-135
+Instructor: Mike Zamansky
+Assignment: Lab 09
+  - Main.cpp for local testing.
+*/
+
+
 #include <iostream>
 #include "funcs.h"
 #include "coord3D.h"
