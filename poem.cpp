@@ -1,3 +1,12 @@
+/*
+Author: Evan Huang
+Course: CSCI-135
+Instructor: Mike Zamansky
+Assignment: Lab 09
+  - Task D.
+*/
+
+
 #include <iostream>
 
 std::string * createAPoemDynamically() {
